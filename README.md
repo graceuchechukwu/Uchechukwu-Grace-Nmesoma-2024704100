@@ -1,6 +1,6 @@
 Uchechukwu-Grace-Nmesoma-2024704100
 Assignment-Python code to convert scores to grades using grading system 
-#Grading-system-
+# Grading-system-
 Grading system based on score ranges
 ---
 
